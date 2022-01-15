@@ -1,8 +1,7 @@
-import React from 'react';
 import { BrowserRouter, Navigate } from 'react-router-dom';
 import { Routes, Route, NavLink } from 'react-router-dom';
 
-import { LazyPage1, LazyPage2, LazyPage3 } from '../01-lazyload/pages';
+import { LazyPage2, LazyPage3 } from '../01-lazyload/pages';
 import { ShoppingPage } from '../02-component-patterns/pages/ShoppingPage';
 
 import logo from '../logo.svg';
